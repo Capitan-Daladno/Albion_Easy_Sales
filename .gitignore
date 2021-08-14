@@ -40,3 +40,4 @@
 yarn-debug.log*
 .yarn-integrity
 to_do.rb
+.rbenv-vars

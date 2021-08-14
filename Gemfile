@@ -17,7 +17,7 @@ gem 'rubocop-rails', require: false
 
 # gems for_heroku
 
-gem 'rails_12factor'
+# gem 'rails_12factor'
 gem 'uglifier', '~> 2.7', '>= 2.7.2'
 
 group :production do
